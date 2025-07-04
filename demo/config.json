@@ -1,0 +1,7 @@
+{
+    "AppName" : "GithubWebApp",
+    "AppVersion" : "0.0.1",
+    "AppDescription" : "Github",
+    "AppLinkPayload" : "https://github.com/",
+    "LinkOptions" : "-WindowStyle Maximized --start-fullscreen"
+}
